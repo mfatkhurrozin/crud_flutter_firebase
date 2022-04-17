@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040775246040",
+    "project_id": "databasefirebase-18ca5",
+    "storage_bucket": "databasefirebase-18ca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040775246040:android:89ef147db6ba9bfe6ca7ad",
+        "android_client_info": {
+          "package_name": "stmik.fatkhurrozin.databasefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040775246040-4ne3i5jph4r40olbsk8sg6eaci66mhge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9JmFLgJ-7FMdsI9slTidBwNi9fhFTOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040775246040-4ne3i5jph4r40olbsk8sg6eaci66mhge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
